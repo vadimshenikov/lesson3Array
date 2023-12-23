@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("les3Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+117bf7259365db82f1d5ccbc6c8da91802f2dcdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfdf0bd5fab3e026a08e9c046e772a8d0cf10eeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("les3Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("les3Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
