@@ -1,0 +1,15 @@
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.AssemblyInfoInputs.cache
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.AssemblyInfo.cs
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.csproj.CoreCompileInputs.cache
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.sourcelink.json
+D:\Vadim\GB\seminar1\les3Array\bin\Debug\net8.0\les3Array.exe
+D:\Vadim\GB\seminar1\les3Array\bin\Debug\net8.0\les3Array.deps.json
+D:\Vadim\GB\seminar1\les3Array\bin\Debug\net8.0\les3Array.runtimeconfig.json
+D:\Vadim\GB\seminar1\les3Array\bin\Debug\net8.0\les3Array.dll
+D:\Vadim\GB\seminar1\les3Array\bin\Debug\net8.0\les3Array.pdb
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.dll
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\refint\les3Array.dll
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.pdb
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\les3Array.genruntimeconfig.cache
+D:\Vadim\GB\seminar1\les3Array\obj\Debug\net8.0\ref\les3Array.dll
